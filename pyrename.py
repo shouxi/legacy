@@ -1,3 +1,5 @@
+#!/usr/bin/python
+#python3
 import os
 
 cnt = 0
